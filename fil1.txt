@@ -1,0 +1,1 @@
+Primer fitxer del repositori remot per al curs de indra en Git
