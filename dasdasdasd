@@ -1,0 +1,22 @@
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from temp to main
+[33m617e403[m[33m ([m[1;31morigin/fea3[m[33m, [m[1;32mfea3[m[33m)[m HEAD@{1}: checkout: moving from fea3 to temp
+[33m617e403[m[33m ([m[1;31morigin/fea3[m[33m, [m[1;32mfea3[m[33m)[m HEAD@{2}: commit: Commit de la branca fea3
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{3}: checkout: moving from main to fea3
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: checkout: moving from feature2 to main
+[33m1dbca55[m[33m ([m[1;31morigin/feature2[m[33m, [m[1;32mfeature2[m[33m)[m HEAD@{5}: commit: Primer commit de la segona branca Feature2
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: checkout: moving from feature1 to feature2
+[33m0883b7c[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{7}: checkout: moving from feature2 to feature1
+[33m476886f[m HEAD@{8}: commit: Commit del primer fitxer de la rama feature2
+[33m961b842[m HEAD@{9}: checkout: moving from feature1 to feature2
+[33m0883b7c[m[33m ([m[1;31morigin/feature1[m[33m, [m[1;32mfeature1[m[33m)[m HEAD@{10}: pull -v: Fast-forward
+[33m961b842[m HEAD@{11}: checkout: moving from feature2 to feature1
+[33m961b842[m HEAD@{12}: checkout: moving from feature1 to feature2
+[33m961b842[m HEAD@{13}: pull: Fast-forward
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{14}: merge main: Fast-forward
+[33m087afc1[m HEAD@{15}: checkout: moving from main to feature1
+[33mdd7dee7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{16}: pull: Fast-forward
+[33md388e68[m HEAD@{17}: checkout: moving from feature1 to main
+[33m087afc1[m HEAD@{18}: checkout: moving from main to feature1
+[33md388e68[m HEAD@{19}: checkout: moving from feature1 to main
+[33m087afc1[m HEAD@{20}: checkout: moving from main to feature1
+[33md388e68[m HEAD@{21}: clone: from https://github.com/joelespinos/indra-curs-git.git
