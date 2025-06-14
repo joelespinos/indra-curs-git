@@ -1,0 +1,52 @@
+[33mcommit e87fd4857ced4c49bf70fd40ae94fd79c491c9db[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrebasing-feature[m[33m)[m
+Author: JoelEspinos <jespinosruiz@gmail.com>
+Date:   Sat Jun 14 16:44:42 2025 +0200
+
+    Four
+
+[33mcommit b73489e6401c3f598500e08f52748f904f8f691a[m
+Author: JoelEspinos <jespinosruiz@gmail.com>
+Date:   Sat Jun 14 16:43:44 2025 +0200
+
+    Third
+
+[33mcommit e24f2a3ca1617996667d232c39b751b0cbdfc3da[m[33m ([m[1;32mmain[m[33m)[m
+Author: JoelEspinos <jespinosruiz@gmail.com>
+Date:   Sat Jun 14 16:38:25 2025 +0200
+
+    Second
+
+[33mcommit c67b3de6af6ad40629119c43575bdb32bf9014c8[m
+Author: JoelEspinos <jespinosruiz@gmail.com>
+Date:   Sat Jun 14 16:37:52 2025 +0200
+
+    First
+
+[33mcommit dd7dee7e618c1c235f8344db57cce9ff801758d3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d388e68 087afc1
+Author: joelespinos <jespinosruiz@gmail.com>
+Date:   Fri Jun 13 16:11:41 2025 +0200
+
+    Merge pull request #1 from joelespinos/feature1
+    
+    Create rama1.txt
+
+[33mcommit 087afc1eced5584a04d2e06a5eb6950c218679d2[m
+Author: joelespinos <jespinosruiz@gmail.com>
+Date:   Fri Jun 13 16:10:57 2025 +0200
+
+    Create rama1.txt
+
+[33mcommit d388e68c9fe93e08bc432157507905c7da8da3a6[m
+Author: joelespinos <jespinosruiz@gmail.com>
+Date:   Fri Jun 13 15:53:50 2025 +0200
+
+    Create fil1.txt
+    
+    Primer fitxer del repositori remot per al curs de indra en Git
+
+[33mcommit 8f79009639fe04611804905f91ec122c59bb3ae9[m
+Author: joelespinos <jespinosruiz@gmail.com>
+Date:   Fri Jun 13 15:52:01 2025 +0200
+
+    Initial commit
